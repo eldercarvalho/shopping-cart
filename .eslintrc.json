@@ -34,6 +34,7 @@
     "react/jsx-props-no-spreading": "off",
     "no-param-reassign": 0,
     "no-plusplus": "off",
+    "no-unused-expressions": "off",
     "import/extensions": [
       "error",
       "ignorePackages",
